@@ -1,0 +1,43 @@
+form{
+    width: 400px;
+    background-color: rgba(201, 163, 106, 0.756);
+    padding: 20px;
+    
+}
+.index{
+    background-color: antiquewhite;
+}
+input{
+    padding-block-end: 0px;
+    margin: 5px;
+}
+.submit{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    pointer-events: curser;
+}
+.submit:hover{
+    background-color: blue;
+    color: brown;
+    font: bolder;
+
+}
+.submit:active{
+    background-color: yellow;
+    color: black;
+}
+.qp{
+    background-color: blue;
+    color: white;
+}
+.pq{
+    background-color: gray;
+    color: goldenrod;
+}
+.pq:hover{
+background-color: goldenrod;
+color: rgb(116, 12, 244);
+cursor: pointer;
+
+}
